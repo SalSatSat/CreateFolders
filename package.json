@@ -1,6 +1,6 @@
 {
   "name": "com.salsatsat.create-folders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Create Folders",
   "description": "Create a module folder and subfolders under Unity's Assets folder in Unity's Project panel",
   "unity": "2019.3",
